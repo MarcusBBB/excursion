@@ -4,7 +4,8 @@
 
 ## Table of contents
 
-- Content
+- [Excursion](#excursion)
+  - [Table of contents](#table-of-contents)
   - [General info](#general-info)
   - [Live version](#live-version)
   - [Features](#features)
@@ -13,7 +14,7 @@
 
 ## General info
 
-This project is made for practising my HTML and CSS
+This project is made for practising general HTML and CSS commands. It's a commercial for a new app that will be available later.
 
 ## Live version
 
@@ -29,4 +30,4 @@ Project is finished
 
 ## Contact
 
-Created by [Marcus Brandes](marcusbrandes@gmail.com) - feel free to contact me!
+Created by [Marcus Brandes](marcusbrandes.me) - feel free to contact me!
