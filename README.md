@@ -4,6 +4,7 @@
 
 ## Table of contents
 
+- Content
   - [General info](#general-info)
   - [Live version](#live-version)
   - [Features](#features)
@@ -24,8 +25,8 @@ This project is made for practising my HTML and CSS
 
 ## Status
 
-Project is in progress
+Project is finished
 
 ## Contact
 
-Created by [Marcus Brandes](marcusbrandes.me) - feel free to contact me!
+Created by [Marcus Brandes](marcusbrandes@gmail.com) - feel free to contact me!
